@@ -8,3 +8,5 @@ Examples:
 ![image](https://github.com/Anzurna/lr_mask_rcnn/blob/main/output/3.jpg)
 Result with pretrained COCO dataset (default confidence = 0.5).
 
+![image](https://github.com/Anzurna/lr_mask_rcnn/blob/main/output/4.jpg)
+Confidence set to 0.4
