@@ -10,4 +10,5 @@ Result with pretrained COCO dataset (default confidence = 0.5).
 
 ![image](https://github.com/Anzurna/lr_mask_rcnn/blob/main/output/4.jpg)
 Confidence set to 0.4
-[Short video demonstration of Mask-R-CNN](https://youtu.be/VJrQB81Jo7E)
+
+Short [video demonstration](https://youtu.be/VJrQB81Jo7E) of Mask-R-CNN
