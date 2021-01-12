@@ -45,7 +45,7 @@ net = cv2.dnn.readNetFromTensorflow(weightsPath, configPath)
 
 vs = cv2.VideoCapture(args["input"])
 writer = None
-e
+
 try:
 	prop = cv2.cv.CV_CAP_PROP_FRAME_COUNT if imutils.is_cv2() \
 		else cv2.CAP_PROP_FRAME_COUNT
