@@ -100,4 +100,5 @@ for i in range(0, boxes.shape[2]):
 			cv2.FONT_HERSHEY_SIMPLEX, 0.5, color, 2)
 
 cv2.imshow("Output", clone)
+cv2.imwrite('output/3.jpg', clone)
 cv2.waitKey(0)
